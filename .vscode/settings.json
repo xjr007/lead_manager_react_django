@@ -1,0 +1,10 @@
+{
+	"python.pythonPath": "C:\\Users\\User\\.virtualenvs\\lead_manager_react_django-gekNTxsG\\Scripts\\python.exe",
+	"python.linting.pylintEnabled": true,
+	"python.linting.enabled": true,
+	"python.linting.pylintArgs": ["--load-plugins=pylint_django"],
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
